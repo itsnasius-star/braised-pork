@@ -85,10 +85,23 @@ Instead of collecting a large number of generic sources, I am collecting a small
 - Added source selection criteria
 - Created placeholder folders for transcripts and supporting materials
 - Built a small transcript collection script using `youtube-transcript-api`
-- Collected initial YouTube transcripts from:
+- Collected YouTube transcripts from 10 selected experts/channels:
   - Dave Gerhardt / Exit Five
   - Chris Walker / Refine Labs
   - TK Kader
+  - April Dunford
+  - Peep Laja / Wynter / CXL
+  - Jason Lemkin / SaaStr
+  - Lenny Rachitsky
+  - Nathan Latka
+  - Adam Robinson
+  - Ross Simmonds
+
+## Final Collection Summary
+
+This research project collected 10 YouTube transcript sources from practitioners and channels relevant to B2B SaaS growth, content strategy, positioning, demand generation, founder-led marketing, and content distribution.
+
+The project uses a focused source selection approach instead of collecting a large number of generic sources. Each expert was selected because their content can support a future practical playbook on YouTube content strategy for B2B SaaS.
 
 ## Repository Structure
 
