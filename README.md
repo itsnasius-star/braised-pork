@@ -60,3 +60,44 @@ At first, I searched for "Codex" in Cursor's Customize/Marketplace section, but 
 ## Result
 
 Claude Code was successfully installed and launched in Terminal. It opened as Claude Code v2.1.175 and displayed the initial setup screen. The Codex add-on was also installed successfully in Cursor.
+
+# B2B SaaS YouTube Content Strategy Research Project
+
+## Topic Chosen
+
+YouTube content strategy for B2B SaaS.
+
+## Why This Topic
+
+I chose this topic because YouTube content is public, transcript-friendly, and suitable for systematic research using free tools. This makes it a practical choice for collecting source material without relying on paid subscriptions or restricted platform scraping.
+
+The topic is relevant to B2B SaaS because many SaaS founders, marketers, and operators use long-form video, interviews, webinars, and educational content to build trust, explain complex products, generate demand, and repurpose content across LinkedIn, newsletters, blogs, and sales materials.
+
+## Research Approach
+
+This project prioritizes signal over volume. I selected practitioners and channels based on their relevance to B2B SaaS growth, demand generation, positioning, content strategy, and founder-led marketing.
+
+Instead of collecting a large number of generic sources, I am collecting a smaller set of high-signal transcripts that could support a practical B2B SaaS content strategy playbook later.
+
+## Current Progress
+
+- Created research folder structure
+- Added source selection criteria
+- Created placeholder folders for transcripts and supporting materials
+- Built a small transcript collection script using `youtube-transcript-api`
+- Collected initial YouTube transcripts from:
+  - Dave Gerhardt / Exit Five
+  - Chris Walker / Refine Labs
+  - TK Kader
+
+## Repository Structure
+
+- `/research/sources.md` — expert list, source links, and annotations
+- `/research/youtube-transcripts/` — collected YouTube transcripts organized by expert/video
+- `/research/linkedin-posts/` — optional supporting LinkedIn materials
+- `/research/other/research-log.md` — research reasoning and selection criteria
+- `/scripts/fetch_youtube_transcript.py` — script used to collect public YouTube transcripts
+
+## Research Principle
+
+The goal is not to maximize volume. The goal is to build a clean, well-documented research base that shows source judgment, technical collection ability, and practical relevance to B2B SaaS content strategy.
