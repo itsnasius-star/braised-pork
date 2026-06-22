@@ -26,7 +26,7 @@ I selected experts and channels based on:
 |---|---|---|---|---|---|
 | 1 | Dave Gerhardt / Exit Five | B2B brand, content, SaaS marketing | Strong B2B SaaS marketing practitioner and community builder. Selected as the first transcript test because the content is relevant to B2B SaaS positioning, content strategy, and founder-led marketing. | https://www.youtube.com/watch?v=UB8ZJ01N3bk | Transcript collected |
 | 2 | Chris Walker / Refine Labs | Demand generation, B2B marketing | Known for demand generation and B2B content thinking. Selected because his content connects YouTube/video education with demand creation and B2B SaaS go-to-market strategy. | https://www.youtube.com/watch?v=ZIRoWKZbG-M | Transcript collected |
-| 3 | TK Kader | SaaS growth, founder-led content | SaaS founder and operator with practical growth content | TBD | To collect |
+| 3 | TK Kader | SaaS growth, founder-led content | SaaS founder and operator with practical growth content. Selected because his videos focus on SaaS growth, go-to-market strategy, and founder/operator execution. | https://www.youtube.com/watch?v=Zdj5372ztg4 | Transcript collected |
 | 4 | April Dunford | Positioning for B2B tech/SaaS | Strong positioning expert relevant to SaaS messaging | TBD | To collect |
 | 5 | Peep Laja / Wynter / CXL | Messaging, conversion, B2B research | Strong in B2B messaging, conversion, and customer research | TBD | To collect |
 | 6 | Jason Lemkin / SaaStr | SaaS growth, founder education | SaaS-focused founder/operator content and interviews | TBD | To collect |
