@@ -1,0 +1,36 @@
+# Sources
+
+## Topic
+
+YouTube content strategy for B2B SaaS.
+
+## Research Goal
+
+The goal of this research project is to collect high-signal YouTube/video-based content from practitioners who understand B2B SaaS growth, content strategy, positioning, demand generation, and founder-led marketing.
+
+This research will later support a practical playbook on how B2B SaaS companies can use YouTube and video content to build trust, educate the market, generate demand, and repurpose long-form content into other channels.
+
+## Expert Selection Criteria
+
+I selected experts and channels based on:
+
+1. Relevance to B2B SaaS growth, marketing, content, positioning, or demand generation.
+2. Availability of public video content or interviews.
+3. Practical experience as founders, operators, marketers, or specialist practitioners.
+4. Content quality, especially frameworks, examples, tactical advice, or strategic insights.
+5. Usefulness for building a future B2B SaaS content strategy playbook.
+
+## Initial Expert / Channel List
+
+| No. | Expert / Channel | Focus Area | Why Selected | Source Link | Status |
+|---|---|---|---|---|---|
+| 1 | Dave Gerhardt / Exit Five | B2B brand, content, SaaS marketing | Strong B2B SaaS marketing practitioner and community builder | TBD | To collect |
+| 2 | Chris Walker / Refine Labs | Demand generation, B2B marketing | Known for demand generation and B2B content thinking | TBD | To collect |
+| 3 | TK Kader | SaaS growth, founder-led content | SaaS founder and operator with practical growth content | TBD | To collect |
+| 4 | April Dunford | Positioning for B2B tech/SaaS | Strong positioning expert relevant to SaaS messaging | TBD | To collect |
+| 5 | Peep Laja / Wynter / CXL | Messaging, conversion, B2B research | Strong in B2B messaging, conversion, and customer research | TBD | To collect |
+| 6 | Jason Lemkin / SaaStr | SaaS growth, founder education | SaaS-focused founder/operator content and interviews | TBD | To collect |
+| 7 | Lenny Rachitsky | Product, growth, SaaS interviews | High-signal interviews with product and growth leaders | TBD | To collect |
+| 8 | Nathan Latka | SaaS founder interviews | Large collection of SaaS founder interviews and business breakdowns | TBD | To collect |
+| 9 | Adam Robinson | Founder-led SaaS content | Example of founder-led B2B SaaS content and growth | TBD | To collect |
+| 10 | Ross Simmonds | Content distribution, B2B content | Strong perspective on content distribution and repurposing | TBD | To collect |
